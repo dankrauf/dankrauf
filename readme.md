@@ -4,9 +4,7 @@
 </div>
 
 <blockquote>
-<p> Note:
- </br>
- This is not my real contribution graph <g-emoji class="g-emoji" alias="laughing" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png">😆</g-emoji></p>
+<p> Note: This is not my real contribution graph <g-emoji class="g-emoji" alias="laughing" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png">😆</g-emoji></p>
 </blockquote>
  
 <div align="center">
