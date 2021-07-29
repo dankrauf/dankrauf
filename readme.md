@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/dankrauf/dankrauf/blob/master/images.png?raw=true" align="center" style="width:100%"/>
+ <img src="https://github.com/dankrauf/dankrauf/blob/master/image.png?raw=true" align="center" style="width:100%"/>
 </br>
 </div>
 
